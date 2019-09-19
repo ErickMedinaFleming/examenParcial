@@ -68,6 +68,10 @@ button {
     outline: 0px solid transparent;
 }
 
+#seccion_comentario{
+  visibility: hidden;
+}
+
 .input-container {
   width: 50%;
   clear: none;
